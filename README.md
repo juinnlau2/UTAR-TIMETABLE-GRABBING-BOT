@@ -1,4 +1,5 @@
 # UTAR-TIMETABLE-GRABBING-BOT
+## Desktop application
 It's timetable secure bot for UTARIAN 
 This is not TTAP! It's just a bot focused on securing your course
 
