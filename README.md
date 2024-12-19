@@ -3,11 +3,11 @@
 It's timetable secure bot for UTARIAN 
 This is not TTAP! It's just a bot focused on securing your course
 
-# Features
-✅ Request-Based: Operates without the need for bulky browser automation tools.
-✅ Automated Scheduling: Set a specific time to automatically bid for your courses.
-✅ Multiple Course Bidding (Premium): Bid for multiple courses simultaneously with the paid plan.
-✅ Auto Retry: Automatically resubmits requests when the UTAR server experiences heavy traffic.
+## Features
+####✅ Request-Based: Operates without the need for bulky browser automation tools.
+####✅ Automated Scheduling: Set a specific time to automatically bid for your courses.
+####✅ Multiple Course Bidding (Premium): Bid for multiple courses simultaneously with the paid plan.
+####✅ Auto Retry: Automatically resubmits requests when the UTAR server experiences heavy traffic.
 
 - [Download Link](https://drive.google.com/file/d/1_aPU0b8Jo_qeDXKTqDkKpM4G2fySHWZm/view?usp=drive_link)
 💰 Price: RM 30/month 
